@@ -35,7 +35,7 @@ const NavigationLinks = ({ isOpen }) => {
   const linksData = [
     {
       imageSrc: "../assets/img/pap.jpg",
-      altText: "Ajouter les livres a votre bibliothéque",
+      altText: "Liste livres",
       text: "Livres",
       to: "/Books",
     },
